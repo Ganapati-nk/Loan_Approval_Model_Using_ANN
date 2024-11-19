@@ -1,4 +1,8 @@
 <h1>Loan Approval Model Using ANN</h1>
+<a href="Image.jpeg" target="_blank">
+    <img src="Image.jpeg" alt="Loan Approval Model" style="width: 300px; height: auto;">
+</a>
+
 
 <p>This project implements a loan approval prediction model using Artificial Neural Networks (ANN) to evaluate loan applications based on various applicant features. The goal is to assist financial institutions in automating the decision-making process for loan approvals.</p>
 

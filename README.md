@@ -1,6 +1,6 @@
 <h1>Loan Approval Model Using ANN</h1>
 <a href="Image.jpeg" target="_blank">
-    <img src="Image.jpeg" alt="Loan Approval Model" style="width: 300px; height: auto;">
+    <img src="Image.jpeg" alt="Loan Approval Model" width="800" />
 </a>
 
 
